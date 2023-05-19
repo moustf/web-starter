@@ -1,0 +1,14 @@
+{
+  "name": "web-starter",
+  "version": "1.0.0",
+  "description": "A starter package for node web projects",
+  "main": "index.js",
+  "repository": "https://github.com/moustf/web-starter.git",
+  "author": "Mustafa Salem <mustafaissasalem@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.4"
+  }
+}
